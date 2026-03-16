@@ -1,6 +1,9 @@
 # Hi, I'm Sandipan Ghosh 👋
 
-🎓 **Pre-Final Year Dual Degree Student at IIT Kharagpur** 🛠️ **Industrial and Systems Engineering** 💻 ** Competitive Programmer** 🤖 **Passionate about AI/ML & Full-Stack Development**
+* 🎓 **Pre-Final Year Dual Degree Student at IIT Kharagpur**
+* 🛠️ **Industrial and Systems Engineering**
+* 💻 **Competitive Programmer **
+* 🤖 **Passionate about AI/ML & Full-Stack Development**
 
 ---
 
