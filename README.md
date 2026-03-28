@@ -3,7 +3,7 @@
 * 🎓 **Pre-Final Year Dual Degree Student at IIT Kharagpur**
 * 🛠️ **Industrial and Systems Engineering**
 * 💻 **Competitive Programmer**
-* 🤖 **Passionate about AI/ML & Full-Stack Development**
+* 🤖 **Passionate about GenAI/ML & Full-Stack Development**
 
 ---
 
